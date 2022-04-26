@@ -1,0 +1,20 @@
+package first;
+
+public class TestProgram {
+	
+	
+	public void welcome()
+	{
+		System.out.println("Welcome to Automation");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		TestProgram tp=new TestProgram();
+		
+		tp.welcome();
+		
+	}
+
+}
